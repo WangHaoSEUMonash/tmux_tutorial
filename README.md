@@ -66,5 +66,7 @@ $ tmux rename-session -t 0 <new-name>
 
 ## 快捷键
 `Ctrl+b d` 分离当前会话
+
 `Ctrl+b s` 列出所有会话
+
 `Ctrl+b $` 重命名当前会话
