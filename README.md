@@ -1,2 +1,3 @@
 # tmux_tutorial
-tmux
+[Tmux](http://www.ruanyifeng.com/blog/2019/10/tmux.html)
+## Install
