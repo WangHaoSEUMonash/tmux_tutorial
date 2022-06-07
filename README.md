@@ -11,5 +11,5 @@ $ tmux new -s <session-name>
 
 在Tmux窗口中，按下**Ctrl+b d**或者输入**tmux detach**命令，就会将当前会话与窗口分离。
 ```
-￥ tmux detach
+$ tmux detach
 ```
