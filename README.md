@@ -1,7 +1,19 @@
 # tmux_tutorial
 [Reference(阮一峰的网络日志)](http://www.ruanyifeng.com/blog/2019/10/tmux.html)
-## Install
+## Basic
 
+### Install
+`$ sudo apt-get install tmux` Ubuntu或Debian
+
+`$ sudo yum install tmux` CentOS或Fedora
+
+`$ brew install tmux` Mac
+
+### Open & Exit
+
+`tmux`
+
+## New
 第一个启动的 Tmux 窗口，编号是0，第二个窗口的编号是1，以此类推。这些窗口对应的会话，就是 0 号会话、1 号会话。
 
 使用编号区分会话，不太直观，更好的方法是为会话起名。
